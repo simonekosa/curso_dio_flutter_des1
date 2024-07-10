@@ -1,6 +1,8 @@
-# curso_dio_flutter_des1
+# CURSO DE FLUTTER - DIO (DESAFIO 1)
 
-A new Flutter project.
+Projeto simples em flutter, para o desafio 1 do curso de flutter.
+
+![Home Page Projeto](images/telaprojeto.png)
 
 ## Getting Started
 
